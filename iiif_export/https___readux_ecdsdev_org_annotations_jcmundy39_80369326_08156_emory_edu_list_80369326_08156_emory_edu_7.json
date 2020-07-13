@@ -1,0 +1,182 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/80369326.08156.emory.edu/list/80369326.08156.emory.edu$7",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting",
+            "@type": "oa:Annotation",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "@id": "f977f8fa-4688-439d-be81-62231aa8de32",
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/80369326.08156.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "value": "xywh=1062,1319,53,79",
+                    "item": {
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1088.38443,1398.33443c0,-17.65574 8.82787,-35.31148 26.48361,-52.96721c0,-14.62649 -11.85711,-26.48361 -26.48361,-26.48361c-14.62649,0 -26.48361,11.85711 -26.48361,26.48361c17.65574,17.65574 26.48361,35.31148 26.48361,52.96721z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_cea1ff50-8edd-4718-bd88-74b1303e6b85\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "value": "xywh=1062,1319,53,79",
+                            "@type": "oa:FragmentSelector"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "@type": "oa:FragmentSelector"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/80369326.08156.emory.edu/canvas/80369326.08156.emory.edu$7",
+                "@type": "oa:SpecificResource"
+            },
+            "resource": {
+                "language": "en",
+                "chars": "<p>point</p>",
+                "format": "text/html",
+                "@type": "dctypes:Text"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting",
+            "@type": "oa:Annotation",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "@id": "df9ded2e-8f5c-4c91-b906-03b4f5eb9cc7",
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/80369326.08156.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "value": "xywh=1671,1028,212,318",
+                    "item": {
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1776.9582,1186.46557l-100.6377,15.89016l-5.29672,-143.01148l211.86885,-31.78033l-15.89016,254.24262l-132.41803,63.56066l-47.67049,-100.6377l90.04426,-63.56066v26.48361z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_b2409554-8aba-4591-b976-9cbd017ee96b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "value": "xywh=1671,1028,212,318",
+                            "@type": "oa:FragmentSelector"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "@type": "oa:FragmentSelector"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/80369326.08156.emory.edu/canvas/80369326.08156.emory.edu$7",
+                "@type": "oa:SpecificResource"
+            },
+            "resource": {
+                "language": "en",
+                "chars": "<p>polygon</p>",
+                "format": "text/html",
+                "@type": "dctypes:Text"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting",
+            "@type": "oa:Annotation",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "@id": "0a94088a-7769-4545-9717-6c73b2965395",
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/80369326.08156.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "value": "xywh=860,434,500,547",
+                    "item": {
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1040.71393,953.40984c6.46608,0 20.51186,2.98588 26.48361,0c2.23329,-1.11665 3.06343,-4.18007 5.29672,-5.29672c1.57918,-0.78959 4.04827,1.24845 5.29672,0c1.24845,-1.24845 -0.78959,-3.71754 0,-5.29672c1.11665,-2.23329 4.18007,-3.06343 5.29672,-5.29672c1.57918,-3.15835 -1.57918,-7.43509 0,-10.59344c1.11665,-2.23329 4.18007,-3.06343 5.29672,-5.29672c0.78959,-1.57918 0,-3.53115 0,-5.29672c0,-3.15353 0.99352,-29.79329 0,-31.78033c-0.78959,-1.57918 -3.62175,0.55832 -5.29672,0c-3.74535,-1.24845 -7.0623,-3.53115 -10.59344,-5.29672c-7.0623,-3.53115 -13.69619,-8.09654 -21.18689,-10.59344c-1.67497,-0.55832 -4.04827,1.24845 -5.29672,0c-1.24845,-1.24845 1.24845,-4.04827 0,-5.29672c-1.24845,-1.24845 -4.7384,1.67497 -5.29672,0c-1.67497,-5.02491 1.28464,-10.75159 0,-15.89016c-0.60559,-2.42235 -3.91169,-3.21918 -5.29672,-5.29672c-2.18992,-3.28489 -4.04827,-6.8481 -5.29672,-10.59344c-1.11665,-3.34994 1.57918,-7.43509 0,-10.59344c-2.99908,-5.99816 -15.56982,-17.44218 -21.18689,-21.18689c-3.28489,-2.18992 -7.80183,-2.5051 -10.59344,-5.29672c-7.27965,-7.27965 -9.11087,-18.73585 -15.89016,-26.48361c-8.2211,-9.39554 -18.49123,-16.89275 -26.48361,-26.48361c-1.13029,-1.35635 0.97936,-3.82768 0,-5.29672c-4.15509,-6.23264 -12.54022,-9.19028 -15.89016,-15.89016c-0.78959,-1.57918 1.24845,-4.04827 0,-5.29672c-1.24845,-1.24845 -4.04827,1.24845 -5.29672,0c-2.12737,-2.12737 0.99856,-12.89448 0,-15.89016c-5.96771,-17.90313 -13.3933,-33.36822 -10.59344,-52.96721c3.61309,-25.29165 15.89016,-36.6806 15.89016,-63.56066c0,-3.53115 1.11665,-7.2435 0,-10.59344c-1.24845,-3.74535 -1.76557,-8.82787 -5.29672,-10.59344c-8.05226,-4.02613 -17.86059,-2.70982 -26.48361,-5.29672c-9.10692,-2.73208 -17.58108,-7.25499 -26.48361,-10.59344c-5.22775,-1.9604 -11.24463,-2.1997 -15.89016,-5.29672c-1.46905,-0.97936 0.78959,-3.71754 0,-5.29672c-1.11665,-2.23329 -4.18007,-3.06343 -5.29672,-5.29672c-0.78959,-1.57918 0,-3.53115 0,-5.29672c0,-5.29672 -1.96715,-10.97228 0,-15.89016c1.85465,-4.63662 7.47384,-6.69394 10.59344,-10.59344c6.43122,-8.03903 10.59344,-17.65574 15.89016,-26.48361c3.27521,-5.45869 6.77392,-10.79747 10.59344,-15.89016c1.49814,-1.99752 4.18007,-3.06343 5.29672,-5.29672c1.82604,-3.65208 -3.99637,-15.89016 5.29672,-15.89016c5.58323,0 10.52175,3.76289 15.89016,5.29672c6.99956,1.99987 14.28081,2.99469 21.18689,5.29672c3.74535,1.24845 6.72217,4.52247 10.59344,5.29672c15.08819,3.01764 16.6476,-4.53928 26.48361,5.29672c3.53115,3.53115 8.36015,6.12686 10.59344,10.59344c3.25556,6.51111 3.29685,14.18733 5.29672,21.18689c1.53383,5.36841 3.94259,10.47363 5.29672,15.89016c0.42821,1.71286 -1.24845,4.04827 0,5.29672c6.42034,6.42034 7.20946,-7.4302 10.59344,-15.89016c1.46623,-3.66557 4.3392,-6.76338 5.29672,-10.59344c1.71286,-6.85143 -3.15835,-14.87018 0,-21.18689c1.57918,-3.15835 7.43509,1.57918 10.59344,0c2.23329,-1.11665 3.06343,-4.18007 5.29672,-5.29672c6.31671,-3.15835 14.22068,1.16103 21.18689,0c14.3612,-2.39353 27.90352,-8.98564 42.37377,-10.59344c15.79298,-1.75478 31.78033,0 47.67049,0c7.0623,0 14.12459,0 21.18689,0c3.53115,0 8.09654,-2.4969 10.59344,0c0.52418,0.52418 4.2312,19.05584 5.29672,21.18689c2.8469,5.6938 7.74654,10.19636 10.59344,15.89016c3.68514,7.37028 -5.27763,15.89971 5.29672,21.18689c12.28617,6.14309 24.27358,-17.43351 31.78033,-21.18689c3.15835,-1.57918 7.2435,1.11665 10.59344,0c2.36877,-0.78959 2.87437,-4.69113 5.29672,-5.29672c5.13857,-1.28464 10.75159,1.28464 15.89016,0c2.42235,-0.60559 3.21918,-3.91169 5.29672,-5.29672c8.65033,-5.76689 21.53605,-7.85779 31.78033,-5.29672c2.42235,0.60559 3.21918,3.91169 5.29672,5.29672c6.56977,4.37985 13.69619,8.09654 21.18689,10.59344c3.34994,1.11665 8.09654,-2.4969 10.59344,0c1.24845,1.24845 -0.78959,3.71754 0,5.29672c4.60405,9.20811 10.17954,17.91767 15.89016,26.48361c2.46105,3.69157 8.18463,4.81762 5.29672,10.59344c-3.42964,6.85928 -15.23338,6.62444 -21.18689,10.59344c-7.34523,4.89682 -13.61705,11.34826 -21.18689,15.89016c-3.38533,2.0312 -6.8481,4.04827 -10.59344,5.29672c-1.67497,0.55832 -3.71754,-0.78959 -5.29672,0c-2.23329,1.11665 -2.92796,4.50713 -5.29672,5.29672c-4.76705,1.58902 -11.12311,-1.58902 -15.89016,0c-6.2695,2.08983 -23.46168,12.86824 -26.48361,15.89016c-2.79162,2.79162 -2.92796,7.43509 -5.29672,10.59344c-2.99628,3.99504 -7.82338,6.43835 -10.59344,10.59344c-0.97936,1.46905 0,3.53115 0,5.29672c0,1.76557 -1.24845,4.04827 0,5.29672c1.24845,1.24845 3.62175,-0.55832 5.29672,0c3.74535,1.24845 7.43509,2.92796 10.59344,5.29672c3.99504,2.99628 7.0623,7.0623 10.59344,10.59344c5.29672,5.29672 10.59344,10.59344 15.89016,15.89016c1.76557,1.76557 4.50713,2.92796 5.29672,5.29672c1.11665,3.34994 0,7.0623 0,10.59344c0,7.0623 0.87597,14.17913 0,21.18689c-3.3224,26.57916 -13.82463,53.68294 -21.18689,79.45082c-0.34521,1.20824 -7.18386,23.92642 -10.59344,26.48361c-4.46659,3.34994 -10.89637,2.79982 -15.89016,5.29672c-5.6938,2.8469 -10.19636,7.74654 -15.89016,10.59344c-4.9938,2.4969 -11.24463,2.1997 -15.89016,5.29672c-6.23264,4.15509 -9.46695,12.03623 -15.89016,15.89016c-3.02793,1.81676 -7.43509,-1.57918 -10.59344,0c-1.57918,0.78959 0.78959,3.71754 0,5.29672c-1.11665,2.23329 -3.06343,4.18007 -5.29672,5.29672c-1.57918,0.78959 -3.82768,-0.97936 -5.29672,0c-10.186,6.79067 -16.2976,19.69294 -26.48361,26.48361c-3.28489,2.18992 -7.80183,2.5051 -10.59344,5.29672c-0.21315,0.21315 0,19.24174 0,21.18689c0,3.53115 -1.81676,7.56551 0,10.59344c13.96008,23.26679 42.37377,27.42019 42.37377,58.26393c0,1.94515 0.21315,20.97374 0,21.18689c-1.24845,1.24845 -4.04827,-1.24845 -5.29672,0c-1.24845,1.24845 1.57918,4.50713 0,5.29672c-4.73753,2.36877 -10.59344,0 -15.89016,0c-12.35902,0 -24.71803,0 -37.07705,0c-2.181,0 -14.48809,1.40207 -15.89016,0c-1.24845,-1.24845 1.57918,-4.50713 0,-5.29672c-4.73753,-2.36877 -12.14482,3.74535 -15.89016,0c-1.24845,-1.24845 1.24845,-4.04827 0,-5.29672c-2.4969,-2.4969 -7.0623,0 -10.59344,0c-12.35902,0 -24.71803,0 -37.07705,0\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_85c297c8-2f46-4964-a043-2064b0096b90\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "value": "xywh=860,434,500,547",
+                            "@type": "oa:FragmentSelector"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "@type": "oa:FragmentSelector"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/80369326.08156.emory.edu/canvas/80369326.08156.emory.edu$7",
+                "@type": "oa:SpecificResource"
+            },
+            "resource": {
+                "language": "en",
+                "chars": "<p>squiggle</p>",
+                "format": "text/html",
+                "@type": "dctypes:Text"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting",
+            "@type": "oa:Annotation",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "@id": "30e128b7-72a6-44c5-ab97-744e841b8faa",
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/80369326.08156.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "value": "xywh=578,1036,1051,1220",
+                    "item": {
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M577.89918,1036.15738h525.37541v0h525.37541v610.12295v610.12295h-525.37541h-525.37541v-610.12295z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3a6bea66-9e20-4ac5-8834-c53c563e1e99\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "value": "xywh=578,1036,1051,1220",
+                            "@type": "oa:FragmentSelector"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "@type": "oa:FragmentSelector"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/80369326.08156.emory.edu/canvas/80369326.08156.emory.edu$7",
+                "@type": "oa:SpecificResource"
+            },
+            "resource": {
+                "language": "en",
+                "chars": "<p>rectangle</p>",
+                "format": "text/html",
+                "@type": "dctypes:Text"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting",
+            "@type": "oa:Annotation",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "@id": "c854adc6-8d3c-4b7a-b028-8471cd79f39d",
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/80369326.08156.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "value": "xywh=318,220,481,518",
+                    "item": {
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M388.51786,296.07297c44.3672,-43.47154 106.95433,-75.84332 169.84476,-75.80464v0v0c62.89042,0.03868 117.67853,30.32196 169.84476,75.80464c52.16622,45.48269 72.44257,114.78952 70.352,183.0086c-2.09057,68.21907 -26.54806,135.35039 -70.352,183.0086c-43.80394,47.65821 -106.95433,75.84332 -169.84476,75.80464c-62.89042,-0.03868 -125.52088,-28.30114 -169.84476,-75.80464c-44.32388,-47.50351 -70.34117,-114.24806 -70.352,-183.0086c-0.01083,-68.76054 25.9848,-139.53706 70.352,-183.0086z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_54004f22-ef65-448b-b55d-8afcf184725d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "value": "xywh=318,220,481,518",
+                            "@type": "oa:FragmentSelector"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "@type": "oa:FragmentSelector"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/80369326.08156.emory.edu/canvas/80369326.08156.emory.edu$7",
+                "@type": "oa:SpecificResource"
+            },
+            "resource": {
+                "language": "en",
+                "chars": "<p>Circle</p>",
+                "format": "text/html",
+                "@type": "dctypes:Text"
+            }
+        }
+    ],
+    "@type": "sc:AnnotationList"
+}
